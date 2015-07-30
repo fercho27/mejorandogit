@@ -1,0 +1,29 @@
+commit 2877a9d1e1df31da4ec24c03de41c2d4f564b21f
+Author: Fernando Gamboa <fernandogamboa27@yahoo.com.ar>
+Date:   Thu Jul 23 09:27:05 2015 -0300
+
+    Agregue descripcion
+
+commit b96f9a2721e430b15db51bf31584dd1e09b99095
+Author: Fernando Gamboa <fernandogamboa27@yahoo.com.ar>
+Date:   Thu Jul 23 09:25:08 2015 -0300
+
+    Agregue redes sociales
+
+commit 912d15506a305335e3dfdb3c4f98337322bc0245
+Author: Fernando Gamboa <fernandogamboa27@yahoo.com.ar>
+Date:   Thu Jul 23 09:17:22 2015 -0300
+
+    Perfil Web Escritorio
+
+commit 7c009cd831eaabf9fe18012ba09a6a5bd04c1958
+Author: Fernando Gamboa <fernandogamboa27@yahoo.com.ar>
+Date:   Thu Jul 23 09:05:06 2015 -0300
+
+    subi foto y mi nombre
+
+commit 1bf84e3bf9ab6cdaeee913b0f5cca43f8e3d5db5
+Author: Fernando Gamboa <fernandogamboa27@yahoo.com.ar>
+Date:   Thu Jul 23 08:53:08 2015 -0300
+
+    Estos son los archivos base de mi portafolio
